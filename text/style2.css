@@ -1,0 +1,31 @@
+ul { 
+
+list-style-type: square;
+background-color: rgb(44, 44, 201)
+
+}
+
+ul li {
+
+
+background-color:rgb(136, 136, 246)
+margin:3px;
+
+
+}
+
+ol {
+
+
+    list-style-type: upper-roman;
+background-color: rgb(232, 116, 135)
+
+
+}
+
+ol li {
+
+background-color: rgb(246, 172, 184)
+margin: 3px;
+
+}
